@@ -86,7 +86,7 @@ flask run
 
 Uma tela como na imagem abaixo será retornada:
 
-![image-20210909152320584](C:\Users\USUARIO\AppData\Roaming\Typora\typora-user-images\image-20210909152320584.png)
+![image-20210909152320584](https://github.com/luisble/GraphQL-API/blob/main/image-20210909152320584.png)
 
 
 
@@ -96,7 +96,7 @@ http://127.0.0.1:5000/
 
 A aplicação retornará um OK, como a imagem abaixo
 
-![image-20210909152737944](C:\Users\USUARIO\AppData\Roaming\Typora\typora-user-images\image-20210909152737944.png)
+![image-20210909152737944](https://github.com/luisble/GraphQL-API/blob/main/image-20210909152737944.png)
 
 Pronto, agora é só ir chamando as GraphQL Queries, conforme abaixo. Utilize o [Postman](https://www.postman.com/)  ou  o [Apollo Studio](https://studio.apollographql.com/) para testar as chamadas
 
